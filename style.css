@@ -10,6 +10,9 @@ h1 {
 .jump-div{
 width: 50%;
 margin-left: 25%;
+height: 50%;
+margin-top: 10%;
+
 }
 p{
     color: white;
@@ -21,4 +24,5 @@ body{
 .jump-img{
     border : 5px solid white;
     width: 100%;
+    height: 100%;
 }
