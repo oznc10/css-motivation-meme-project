@@ -59,7 +59,3 @@ This project was built following specific design constraints:
 **oznc10** - [GitHub Profile](https://github.com/oznc10)
 
 ---
-
-## ## License
-
-This project is open-source and available under the [MIT License](LICENSE).
